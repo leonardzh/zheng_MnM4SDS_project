@@ -1,4 +1,10 @@
 # Project Title: Urban Dynamics
+## Update 12/01
+### Finished:
+Simple linear regression can be realized in Step0 neural network.
+
+### Ongoing:
+introduce NNSI
 
 ## Update 10/29
 ### Finished:
