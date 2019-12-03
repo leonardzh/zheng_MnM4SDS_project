@@ -1,4 +1,12 @@
 # Project Title: Urban Dynamics
+
+## Update 12/03
+### Finished:
+Add mainPlayground notebook with all data/computation modules wrapped in function
+
+### Ongoing:
+study real SI data to get valid output in NN model.
+
 ## Update 12/01
 ### Finished:
 Simple linear regression can be realized in Step0 neural network.
