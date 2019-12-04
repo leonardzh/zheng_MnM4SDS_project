@@ -1,5 +1,17 @@
 # Project Title: Urban Dynamics
 
+## Update 12/04
+
+### ToDo today:
+- [ ] Markdown description
+- [ ] Function definition position
+- [ ] Clear legacy code in notebook
+- [ ] Clear ERROR
+- [ ] Use test data in comparison
+- [x] Upload data file
+- [ ] Make simulated SI data
+- [ ] Real world data run
+
 ## Update 12/03
 ### Finished:
 Add mainPlayground notebook with all data/computation modules wrapped in function
