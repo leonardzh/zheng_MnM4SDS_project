@@ -2,14 +2,14 @@
 
 ## Update 12/04
 
-### ToDo today:
-- [ ] Markdown description
-- [ ] Function definition position
-- [ ] Clear legacy code in notebook
-- [ ] Clear ERROR
-- [ ] Use test data in comparison
+### Task today:
+- [x] Markdown description
+- [x] Function definition position
+- [x] Clear legacy code in notebook
+- [X] Clear ERROR
+- [x] Use test data in comparison
 - [x] Upload data file
-- [ ] Make simulated SI data
+- [x] Make simulated SI data
 - [ ] Real world data run
 
 ## Update 12/03
