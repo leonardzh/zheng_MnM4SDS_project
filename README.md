@@ -1,4 +1,13 @@
 # Project Title: Urban Dynamics
+## Update 12/09
+
+### Task today:
+
+- [x] Real world-- Taxi data on NN run init result
+- [ ] Real world-- Taxi data on NN run parameters comparison
+- [ ] LSTM SI model
+- [ ] Interpretation template of NN and LSTM model
+
 
 ## Update 12/04
 
