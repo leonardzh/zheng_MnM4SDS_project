@@ -1,4 +1,13 @@
 # Project Title: Urban Dynamics
+## Update 12/10
+
+### Task today:
+
+
+- [x] OLS/NN/RNN/LSTM SI model for flow time series
+- [x] Interpretation template for PDP/SHAP
+- [ ] Interpretation template for counterfactual explanation
+- [ ] tuning and compare RNN/LSTM SI model
 ## Update 12/09
 
 ### Task today:
