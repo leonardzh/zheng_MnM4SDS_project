@@ -1,4 +1,23 @@
 # Project Title: Urban Dynamics
+
+## Notebook description
+
+- austria_NNSI.ipynb: For reproducing legacy spatial interaction model in http://openjournals.wu.ac.at/region/paper_175_revised/175.html
+
+- SI.ipynb: Data collection and exploration for this project.
+
+- Taxi_NNSI.ipynb: Prepare NYC taxi data for NNSI and visualization
+
+- MainPlayground: Stage for running Spatial dependence SI model. (OLS/GLM/MLP)
+
+- LSTM_NNSI.ipynb: Stage for running Temporal dependence SI model. (OLS/MLP/RNN/LSTM)
+
+
+## Update 12/16
+- [x] Clean notebooks
+- [x] Visualization from streamlit
+
+
 ## Update 12/10
 
 ### Task today:
